@@ -28,22 +28,24 @@ This Training contains fundamental , relevant  and useful practice for a deep di
 ## 6. Introduction to OOP
 - [Inheritance](https://gitlab.com/marthadelaossa/inheritance-skeleton)
 ## 7. Abstract Classes and Interfaces
-- []()
+- [Aggregation. Abstract classes](https://gitlab.com/marthadelaossa/aggregation-skeleton)
+- [Interface](https://gitlab.com/marthadelaossa/interfaces-skeleton.git)
 ## 8. Nested Сlasses
-- []()
+- [Contact Book](https://gitlab.com/marthadelaossa/contact-book.git)
 ## 9. Working with Strings
-- []()
+- [Words](https://gitlab.com/marthadelaossa/words.git)
+- [Validations. Epam Email](https://gitlab.com/marthadelaossa/validations-epam-email.git)
 ## 10. Exceptions
-- []()
+- [Exceptions](https://gitlab.com/marthadelaossa/exceptions-skeleton.git)
 ## 11. Annotations
-- []()
+- Just Theory
 ## 12. Generics
-- []()
+- Just Theory
 ## 13. Enums
-- []()
+- [Compass](https://gitlab.com/marthadelaossa/compass.git)
 ## 14. Wrapper Classes
-- []()
+- Just Theory
 ## 15. Optional
-- []()
+- [Optional Max](https://gitlab.com/marthadelaossa/optional-max.git)
 ## 16. Code Documentation
-- []()
+- Just Theory
