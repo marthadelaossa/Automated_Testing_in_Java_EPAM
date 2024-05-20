@@ -57,7 +57,7 @@ This Training contains fundamental , relevant  and useful practice for a deep di
 ## 16. Code Documentation
 - Just Theory
 
-## Java Collections
+# Java Collections
 
 ## 1. Introduction to Collections
 - [Iterating Collections](https://gitlab.com/marthadelaossa/newpostoffice)  
@@ -72,14 +72,14 @@ This Training contains fundamental , relevant  and useful practice for a deep di
 ## 5. Collection Algorithms
 - [Student's Gradebook](https://gitlab.com/marthadelaossa/student-gradebook-skeleton)
 
-## Introduction to Maven and JUnit
+# Introduction to Maven and JUnit
 - [Testing Sorting Routine](https://gitlab.com/marthadelaossa/test-sorting-master)
 - [Testing Quadratic Equation](https://gitlab.com/marthadelaossa/test-quadratic-equation-master)
 - [Test Factorial](https://gitlab.com/marthadelaossa/test-factorial-master)
 
-## WebDriver
+# WebDriver
 - [Task1, Task2 and Task3](https://gitlab.com/marthadelaossa/ta_training-java)
 
-## Framework
+# Framework
 - [Task1] In Process
   
