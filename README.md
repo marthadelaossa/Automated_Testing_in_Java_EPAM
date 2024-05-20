@@ -1,4 +1,11 @@
-# JavaBasicsTraining
+
+# [Fundamentals] Automated Testing in Java
+
+The course consists of modules that will help you gain basic skills in test automation using Java.
+Each module has sections with study materials and practical tasks.
+
+
+# JavaBasicsENG (for AT)
 
 This Training contains fundamental , relevant  and useful practice for a deep dive into JAVA. 
 
@@ -49,3 +56,30 @@ This Training contains fundamental , relevant  and useful practice for a deep di
 - [Optional Max](https://gitlab.com/marthadelaossa/optional-max.git)
 ## 16. Code Documentation
 - Just Theory
+
+## Java Collections
+
+## 1. Introduction to Collections
+- [Iterating Collections](https://gitlab.com/marthadelaossa/newpostoffice)  
+## 2. Lists and Queues
+- [Simple Array List](https://gitlab.com/marthadelaossa/simplearraylist-task)
+- [Doubly Linked List](https://gitlab.com/marthadelaossa/doubly-linked-list-skeleton)
+- [New Post Storage Service](https://gitlab.com/marthadelaossa/newpostofficestorage-task)  
+## 3. Sets
+- [Project Skills](https://gitlab.com/marthadelaossa/project-skills-skeleton)
+## 4. Maps
+- [Books Catalog](https://gitlab.com/marthadelaossa/bookscatalog-task)  
+## 5. Collection Algorithms
+- [Student's Gradebook](https://gitlab.com/marthadelaossa/student-gradebook-skeleton)
+
+## Introduction to Maven and JUnit
+- [Testing Sorting Routine](https://gitlab.com/marthadelaossa/test-sorting-master)
+- [Testing Quadratic Equation](https://gitlab.com/marthadelaossa/test-quadratic-equation-master)
+- [Test Factorial](https://gitlab.com/marthadelaossa/test-factorial-master)
+
+## WebDriver
+- [Task1, Task2 and Task3](https://gitlab.com/marthadelaossa/ta_training-java)
+
+## Framework
+- [Task1] In Process
+  
