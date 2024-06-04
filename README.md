@@ -81,5 +81,5 @@ This Training contains fundamental , relevant  and useful practice for a deep di
 - [Task1, Task2 and Task3](https://gitlab.com/marthadelaossa/ta_training-java)
 
 # Framework
-- [Task1] In Process
+- [Task1](https://gitlab.com/marthadelaossa/hybrid_framework)
   
